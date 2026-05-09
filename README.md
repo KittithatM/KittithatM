@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm Kittithat M
+## Kittithat M
+** Computer Engineering **
 
 <!--
 **KittithatM/KittithatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
